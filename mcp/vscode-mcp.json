@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "swiftedge": {
+      "type": "http",
+      "url": "https://swiftedge.uk/mcp"
+    }
+  }
+}

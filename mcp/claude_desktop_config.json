@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "swiftedge": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://swiftedge.uk/mcp"]
+    }
+  }
+}
